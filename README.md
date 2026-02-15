@@ -11,8 +11,6 @@
 <a href="mailto:YOUR_EMAIL_HERE">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
 </a>
-<!-- Add your LinkedIn or Itch.io below if you have them -->
-<!-- <a href="YOUR_LINKEDIN_URL"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/></a> -->
 </p>
 
 👨‍💻 About Me
@@ -25,7 +23,7 @@ I am a Game Developer specializing in Unity and Godot, currently building a larg
 
 💻 Languages: C#, GDScript, Java, C++
 
-🎓 Studying at: [Your University Name, e.g., IAU]
+🎓 Studying at: IAU (Imam Abdulrahman Bin Faisal University)
 
 🛠️ Tech Stack
 
