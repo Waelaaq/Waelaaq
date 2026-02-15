@@ -39,8 +39,5 @@ Studying at: IAU (Imam Abdulrahman Bin Faisal University)
 
 <!-- REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL USERNAME BELOW -->
 
-<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DWaelaaq%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DWaelaaq%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117" height="150" alt="languages graph" />
 
 </div>
