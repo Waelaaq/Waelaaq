@@ -12,7 +12,7 @@
 
 I am a Game Developer specializing in Unity and Godot, currently building a large-scale game project. I also have a strong background in software development with Java and SQL.
 
-🔭 I’m currently working on: [Name of your Big Game Project]
+🔭 I’m currently working on: [Pexet inc.]
 
 🎮 Game Engines: Unity 3D, Godot 4.x
 
