@@ -33,8 +33,6 @@ Studying at: IAU (Imam Abdulrahman Bin Faisal University)
 
 </div>
 
-📈 GitHub Stats
-
 <div align="center">
 
 <!-- REPLACE "YOUR_GITHUB_USERNAME" WITH YOUR ACTUAL USERNAME BELOW -->
