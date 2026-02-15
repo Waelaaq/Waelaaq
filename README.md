@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi there, I'm Wael! <img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Hi there, I'm Wael! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 👾 Game Developer & Software Engineer based in Saudi Arabia 🇸🇦
 
@@ -20,13 +20,9 @@ Hi there, I'm Wael! <img src="https://www.google.com/search?q=https://media.giph
 
 I am a passionate Game Developer specializing in Unity and Godot. I combine creativity with strong software engineering principles to build immersive experiences.
 
-🔭 I’m currently working on: [Pexet Inc.]
+I’m currently working on: [Pexet Inc.]
 
-🎓 Studying at: IAU (Imam Abdulrahman Bin Faisal University)
-
-👯 I’m looking to collaborate on: Open Source Game Tools & Jams
-
-⚡ Fun fact: I build worlds in code, but I also enjoy exploring them in RPGs.
+Studying at: IAU (Imam Abdulrahman Bin Faisal University)
 
 🛠️ Tech Stack & Tools
 
