@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=120&section=header&text=Wael%20Qubaisi&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Game%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Founder&descAlignY=85&descSize=14&descColor=8b949e" />
-
+<a></a>
 <a href="https://linkedin.com/in/wael-qubaisi-08874733a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
