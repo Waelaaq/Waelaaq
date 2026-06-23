@@ -109,15 +109,16 @@ Desktop application for pharmacy operations and inventory management.
 </td>
 <td width="50%">
 
-### 👥 [Employee Registry](https://github.com/Waelaaq/Primitive_employee_registery_program)
-employee data management system (first coding project).
+### 📚 [IqraaLibrary](https://github.com/Waelaaq/IqraaLibrary)
+Online bookstore (latest project).
 
-**Tech Stack:** C++
+**Tech Stack:** PHP, JavaScript, Python, HTML, CSS
 
 **Features:**
-- CRUD operations
-- Data management
-- OOP principles implementation
+- Inventory tracking
+- Sales management
+- Responsive GUI
+- and much more
 
 </td>
 </tr>
