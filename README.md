@@ -34,7 +34,7 @@ I'm looking for a **software engineering internship or COOP**. See my work at **
 | Track | Project | What it is | Stack |
 |---|---|---|---|
 | 🌐 Web | **[Iqraa Library](https://github.com/Waelaaq/IqraaLibrary)** | A multi-vendor bookstore with separate roles for customers, sellers and admins | PHP · MySQL · JavaScript |
-| 🌐 Web | **Event Management System** | University events from start to finish: registration, sign-in, and role-based access for admins, organizers and students (team project) | Django REST Framework · MySQL · React · Vite · Tailwind |
+| 🌐 Web | **[Event Management System](https://github.com/iForGamer/Project_UniEvent)** | University events from start to finish: registration, sign-in, and role-based access for admins, organizers and students (team project) | Django REST Framework · MySQL · React · Vite · Tailwind |
 | 🖥️ Desktop | **[Pharmacy Management System](https://github.com/Waelaaq/Pharmacy-Management-System-Java-MySQL)** | Inventory, customers, staff and sales, with three staff roles (admin, pharmacist, assistant) | Java · Swing · MySQL · JDBC |
 | 🎮 Games | **[Pexet Inc](https://store.steampowered.com/app/3905840/Pexet_Inc/)** | A top-down 2D survival-horror game where you shift between past, present and future (Thurayya Studio) | Unity · C# |
 | 📊 Data | **[Parallel Programming](https://github.com/Waelaaq/ParallelProgramming)** | A sequential benchmark comparing data-analysis workloads on a large dataset | Python · pandas |
