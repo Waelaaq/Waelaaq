@@ -25,7 +25,7 @@ I'm a software engineer and a final-year Computer Science student at IAU, based 
 
 I'm a co-founder and game developer at **[Thurayya Studio](https://thurayyastudio.com)**. Our debut game, **[Pexet Inc](https://store.steampowered.com/app/3905840/Pexet_Inc/)**, is in active development.
 
-I'm looking for a **software engineering internship or COOP**. See my work at **[waelaaq.github.io/Portfolio](https://waelaaq.github.io/Portfolio/)**.
+I'm looking for an **internship or COOP**. See my work at **[waelaaq.github.io/Portfolio](https://waelaaq.github.io/Portfolio/)**.
 
 ---
 
